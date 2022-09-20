@@ -11,6 +11,7 @@ export const styles = StyleSheet.create({
     justifyContent: 'space-around',
     alignItems: 'center',
     flexDirection: 'row',
+    marginLeft: 20
   },
   buttonText: {
     color: theme.colors.white,
